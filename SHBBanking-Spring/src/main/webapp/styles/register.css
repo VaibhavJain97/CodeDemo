@@ -1,0 +1,46 @@
+form{
+		margin: 0;
+		
+}
+a{
+	
+	text-decoration: none;
+border: none;
+}
+
+a:link{
+
+	text-decoration: none;
+	border: none;
+
+}
+
+.error-message	{
+			color: red;
+		}
+
+#register{
+	margin: 50px 50px 50px 50px;
+	border-radius: 25px;
+	border: 2px solid black;
+	
+	
+}
+
+.tablecnt{
+	margin-left: 350px;
+}
+h2,th{
+	color:black;
+}
+hr{
+	border-color: black;
+}
+.btnStyle{
+	margin-top:10px;
+	padding:5px 5px 5px 5px;
+	width:80px;
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
